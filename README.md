@@ -36,5 +36,3 @@ $ cd Desktop
 $ git clone (paste the url obtained from clicking on "Clone or download" option on YOUR OWN PROFILE)
 $ cd Hacktoberfest
 ```
-
-![img2](https://user-images.githubusercontent.com/43072879/95001251-cf63b580-05e5-11eb-9ce7-50d46c37cccb.PNG)
