@@ -37,3 +37,8 @@ $ cd Desktop
 $ git clone https://github.com/<YOUR USERNAME>/Project-Hub.git
 $ cd Project-Hub
 ```
+
+## :point_right: [Refer to this for Contribution Guidlines](/Contribution-guide.pdf)
+
+# Contributors
+[Syeda Reeha Quasar](https://github.com/syedareehaquasar)
