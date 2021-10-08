@@ -18,7 +18,7 @@ Register yourself for Hacktoberfest.
 ![Screenshot 2021-10-07 001603](https://user-images.githubusercontent.com/34421801/136264323-9a9b374e-e324-4baf-913f-2d7a4bac436e.jpg)
 
 ## Step 3 
-This is the link of the repository that you guys will be contributing to: https://github.com/GDSC-BVP-ND/hacktoberfest
+This is the link of the repository that you guys will be contributing to: https://github.com/GDSC-BVP-ND/Project-Hub
 
 ## Step 4 
 Star this repository
@@ -34,6 +34,6 @@ Fork this repository on your profile
 Open Terminal and type in these commands
 ```bash
 $ cd Desktop
-$ git clone https://github.com/<YOUR USERNAME>/hacktoberfest.git
-$ cd Hacktoberfest
+$ git clone https://github.com/<YOUR USERNAME>/Project-Hub.git
+$ cd Project-Hub
 ```
