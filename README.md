@@ -34,6 +34,6 @@ Fork this repository on your profile
 Open Terminal and type in these commands
 ```bash
 $ cd Desktop
-$ git clone (paste the url obtained from clicking on "Clone or download" option on YOUR OWN PROFILE)
+$ git clone https://github.com/<YOUR USERNAME>/hacktoberfest.git
 $ cd Hacktoberfest
 ```
