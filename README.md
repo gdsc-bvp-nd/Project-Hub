@@ -23,12 +23,12 @@ This is the link of the repository that you guys will be contributing to: https:
 ## Step 4 
 Star this repository
 
-![Screenshot 2021-10-07 011854](https://user-images.githubusercontent.com/34421801/136273104-79a75d1c-d355-4da5-835f-be969a98e853.jpg)
+![Project-Hub](./repo.JPG)
 
 ## Step 5 
 Fork this repository on your profile
 
-![Screenshot 2021-10-07 011854](https://user-images.githubusercontent.com/34421801/136273104-79a75d1c-d355-4da5-835f-be969a98e853.jpg)
+![Project-Hub](./repo.JPG)
 
 ## Step 6 
 Open Terminal and type in these commands
