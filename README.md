@@ -31,12 +31,43 @@ Fork this repository on your profile
 ![Project-Hub](./repo.JPG)
 
 ## Step 6 
-Open Terminal and type in these commands
+Open Terminal and type below commands
 ```bash
 $ cd Desktop
-$ git clone https://github.com/<YOUR USERNAME>/Project-Hub.git
+$ git clone https://github.com/<YOUR git USERNAME>/Project-Hub.git
 $ cd Project-Hub
 ```
+
+## Step 7
+Create a branch
+Now create a branch using the git checkout command:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+For example:
+git checkout -b alpha
+
+## Step 8 
+Make necessary changes. Add those changes to your branch and commit those changes
+
+Doing above operations, run below commands:
+
+```bash
+$ git add .
+$ git commit -m "Add msg you want"
+
+```
+
+## Step 9
+Push your changes using the command git push:
+
+```bash
+git push origin <add-your-branch-name>
+```
+
+replacing <add-your-branch-name> with the name of the branch you created earlier. We had created "alpha" branch.
 
 ## :point_right: [Refer to this for Contribution Guidlines](/Contribution-guide.pdf)
 
